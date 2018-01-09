@@ -1,4 +1,4 @@
-name: ubuntu-python3-pillow
+name: pillow
 human_name: Pillow
 description: "Pillow v4.2.1 for Ubuntu and Python3"
 revision: 0
