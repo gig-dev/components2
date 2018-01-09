@@ -1,5 +1,5 @@
-name: pillow
-human_name: Pillow
+id: pillow
+name: Pillow
 description: "Pillow v4.2.1 for Ubuntu and Python3"
 revision: 0
 tags: ["ubuntu", "python", "python3", "image", "jpeg", "png"]
