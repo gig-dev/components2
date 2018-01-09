@@ -1,9 +1,9 @@
 repo:
-  name: dev
-  human_name: Dev Official
-  url: https://github.com/gig-dev/environment-components-dev.git
+  name: dev2
+  human_name: Gig Components 2
+  url: https://github.com/gig-dev/components2.git
 maintainer:
-  name: Dev
+  name: Dev2
   email: hello@dev.io
   url: dev.io
 
