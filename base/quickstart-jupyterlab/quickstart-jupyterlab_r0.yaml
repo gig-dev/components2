@@ -32,6 +32,6 @@ package_managers:
     - matplotlib
     - requests
     - jupyter
-    - jupyerlab
+    - jupyterlab
     - ipywidgets
     - pandas
