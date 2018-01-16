@@ -13,7 +13,7 @@ image:
   server: hub.docker.com
   namespace: gigdev
   repository: gm-quickstart
-  tag: 49d3e99a-2018-01-11
+  tag: 9718fedc-2018-01-1
 languages:
   - python3
 package_managers:
