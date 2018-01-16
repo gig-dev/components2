@@ -16,6 +16,8 @@ image:
   tag: 9718fedc-2018-01-16
 languages:
   - python3
+development_tools:
+  - jupyterlab
 package_managers:
   - apt:
     - supervisor
