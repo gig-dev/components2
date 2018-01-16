@@ -2,7 +2,7 @@ id: quickstart-jupyterlab
 name: Data Science Quickstart with JupyterLab
 description: Data Science Quickstart using Jupyterlab, numpy, and Matplotlib. A great base for any analysis.
 readme: Empty for now
-revision: 0
+revision: 1
 tags: ['ubuntu', 'python3', 'jupyterlab']
 icon: "data:image/png;base64,<base64 encoded png image>"
 os_class: ubuntu
