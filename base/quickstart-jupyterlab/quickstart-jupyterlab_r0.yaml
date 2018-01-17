@@ -16,6 +16,8 @@ image:
   tag: 49d3e99a-2018-01-11
 languages:
   - python3
+development_tools:
+  - jupyterlab
 package_managers:
   - apt:
     - supervisor
