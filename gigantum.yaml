@@ -1,9 +1,9 @@
 repo:
-  name: dev2
-  human_name: Gig Components 2
+  name: unit-test-2
+  human_name: Unit Test Components 2
   url: https://github.com/gig-dev/components2.git
 maintainer:
-  name: Dev2
-  email: hello@dev.io
-  url: dev.io
+  name: Gigantum
+  email: hello@gigantum.io
+  url: gigantum.io
 
