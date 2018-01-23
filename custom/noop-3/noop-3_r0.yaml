@@ -2,7 +2,7 @@ id: noop-3
 name: Noop 3
 description: "No Op for Unit Tests 3"
 revision: 0
-schema: 0
+schema: 1
 tags: ["ubuntu", "python", "python3", "image", "jpeg", "png"]
 os_base_class: ubuntu
 docker: |

@@ -3,7 +3,7 @@ name: Unit Test1
 description: Unit Test 1
 readme: Empty for now
 revision: 0
-schema: 0
+schema: 1
 tags: ['ubuntu', 'python3', 'jupyterlab']
 icon: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII="
 os_class: ubuntu
