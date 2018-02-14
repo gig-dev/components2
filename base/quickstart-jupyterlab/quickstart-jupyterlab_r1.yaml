@@ -12,9 +12,9 @@ license: MIT
 url: null
 image:
   server: hub.docker.com
-  namespace: gigdev
-  repository: gm-quickstart
-  tag: 9718fedc-2018-01-16
+  namespace: gigantum
+  repository: python3-minimal
+  tag: 826b6f24-2018-02-09
 languages:
   - python3
 development_tools:
