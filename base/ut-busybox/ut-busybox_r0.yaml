@@ -18,4 +18,4 @@ image:
 languages: []
 development_tools: []
 package_managers:
-  - apt: []
+  - apt:
